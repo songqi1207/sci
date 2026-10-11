@@ -1,0 +1,14 @@
+.venv/
+.venv313/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+
+# Runtime artifacts; keep the checked-in sample files.
+output/*
+!output/.gitkeep
+!output/sample_articles.csv
+!output/sample_articles.json
+!output/sample_articles.md
